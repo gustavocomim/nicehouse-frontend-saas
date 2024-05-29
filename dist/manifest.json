@@ -1,0 +1,25 @@
+{
+    "short_name": "nicehouse",
+    "name": "nicehouse",
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "favicon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#d81b60",
+    "background_color": "#ffffff"
+}
